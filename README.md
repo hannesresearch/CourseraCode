@@ -19,20 +19,20 @@ The project is organized into the following stages:
 
 **1. Data Collection**
 - [`01_data_collection_spacex_api.ipynb`](Applied_Data_Science_Capstone/01_data_collection_spacex_api.ipynb) – Data collection using the SpaceX API
-- [`02_data_collection_webscraping.ipynb`](02_data_collection_webscraping.ipynb) – Data collection through web scraping
+- [`02_data_collection_webscraping.ipynb`](Applied_Data_Science_Capstone/02_data_collection_webscraping.ipynb) – Data collection through web scraping
 
 **2. Data Preparation**
-- [`03_data_wrangling.ipynb`](03_data_wrangling.ipynb) – Data cleaning and preparation
+- [`03_data_wrangling.ipynb`](Applied_Data_Science_Capstone/03_data_wrangling.ipynb) – Data cleaning and preparation
 
 **3. Exploratory Data Analysis**
-- [`04_eda_plots.ipynb`](04_eda_plots.ipynb) – Exploratory data analysis and visualization
-- [`05_eda_sql.ipynb`](05_eda_sql.ipynb) – Exploratory analysis using SQL
+- [`04_eda_plots.ipynb`](Applied_Data_Science_Capstone/04_eda_plots.ipynb) – Exploratory data analysis and visualization
+- [`05_eda_sql.ipynb`](Applied_Data_Science_Capstone/05_eda_sql.ipynb) – Exploratory analysis using SQL
 
 **4. Data Visualization**
-- [`06_interactive_map.ipynb`](06_interactive_map.ipynb) – Interactive maps of launch sites
-- [`07_dash_app.py`](07_dash_app.py) – Interactive dashboard application
+- [`06_interactive_map.ipynb`](Applied_Data_Science_Capstone/06_interactive_map.ipynb) – Interactive maps of launch sites
+- [`07_dash_app.py`](Applied_Data_Science_Capstone/07_dash_app.py) – Interactive dashboard application
 
 **5. Machine Learning**
-- [`08_machine_learning.ipynb`](08_machine_learning.ipynb) – Classification models and model evaluation
+- [`08_machine_learning.ipynb`](Applied_Data_Science_Capstone/08_machine_learning.ipynb) – Classification models and model evaluation
 
 **Note:** This project was completed as a guided capstone assignment within the IBM Data Science Professional Certificate. It demonstrates practical application of the methods and tools covered in the course.
