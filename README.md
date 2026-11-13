@@ -18,7 +18,7 @@ The project investigates the relationship between SpaceX Falcon 9 first-stage la
 The project is organized into the following stages:
 
 **1. Data Collection**
-- [`01_data_collection_spacex_api.ipynb`](01_data_collection_spacex_api.ipynb) – Data collection using the SpaceX API
+- [`01_data_collection_spacex_api.ipynb`](Applied_Data_Science_Capstone/01_data_collection_spacex_api.ipynb) – Data collection using the SpaceX API
 - [`02_data_collection_webscraping.ipynb`](02_data_collection_webscraping.ipynb) – Data collection through web scraping
 
 **2. Data Preparation**
